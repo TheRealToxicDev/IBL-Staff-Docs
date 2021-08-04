@@ -5,7 +5,7 @@
 </h2>
 
 <p>
- Official Documentation site for all of the Infinity Bot List Open-Source Projects
+ Official Documentation site for all of the Infinity Bot List/Infinity Development Open-Source Projects
 </p>
 
 <hr />
