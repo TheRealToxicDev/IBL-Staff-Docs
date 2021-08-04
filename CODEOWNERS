@@ -1,3 +1,7 @@
+# GitHub
+.github/FUNDING.yml
+.github/workflows/publish.yaml
+
 # Main
 gatsby-brwoser.js @TheRealToxicDev
 gatsby-config.js @TheRealToxicDev
