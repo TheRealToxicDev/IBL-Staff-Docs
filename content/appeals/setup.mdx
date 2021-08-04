@@ -1,0 +1,34 @@
+---
+title: Config/Setup
+description: Information regarding Configuration of the Appeals Site
+---
+
+This section will walk you through Setting Up and Configuring the Website and Environment
+
+---
+
+## Environment Structure
+
+```json:title=.env
+REACT_APP_CLIENT_ID = '' // Discord Bot ID
+REACT_APP_CLIENT_SECRET = '' // Discord Client Secret
+REACT_APP_WEBHOOK_URL = '' // Discord Channel Webhook URL
+REACT_APP_DISCORD_BOT_TOKEN = '' // Discord Bot Token
+REACT_APP_GUILD_ID = '' // Discord Server ID
+REACT_APP_JWT_SECRET = '' Some Random Secret Password (for the API)
+REACT_APP_SKIP_BAN_CHECK = '' // Skip chekcing the Server if User is Banned (true or false)
+```
+
+---
+
+## Example Environment
+
+```json:title=.env
+REACT_APP_CLIENT_ID = '818429464131272714'
+REACT_APP_CLIENT_SECRET = 'abcDefgha12347689LNop'
+REACT_APP_WEBHOOK_URL = 'https://discord.com/api/webhooks/CHANNEL_ID/WEBHOOK_TOKEN'
+REACT_APP_DISCORD_BOT_TOKEN = 'SOME_SECRET_TOKEN'
+REACT_APP_GUILD_ID = '758641373074423808'
+REACT_APP_JWT_SECRET = 'PrettyChillDevIsSenpai_2021'
+REACT_APP_SKIP_BAN_CHECK = true
+```
