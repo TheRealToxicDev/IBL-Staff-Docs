@@ -1,7 +1,3 @@
-# GitHub
-.github/FUNDING.yml @ChillCordDev
-.github/workflows/publish.yaml @ChillCordDev
-
 # Main
 gatsby-brwoser.js @TheRealToxicDev
 gatsby-config.js @TheRealToxicDev
@@ -20,5 +16,3 @@ content/getting-started.mdx @TheRealToxicDev
 
 # Appeals
 content/appeals/@intro.mdx @ChillCordDev
-content/appeals/hosting.mdx @ChillCordDev
-content/appeals/setup.mdx @ChillCordDev
