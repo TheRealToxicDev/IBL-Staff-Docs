@@ -23,15 +23,13 @@ module.exports = {
         description: "Official Documentation for the Infinity Bot List Website, Discord Server, Staff Team and API",
         githubRepo: "InfinityBotList/OSS-Docs",
         baseUrl: "https://oss.botlist.site",
-        // defaultVersion: "1",
+        // defaultVersion: "0",
         // versions: {
         //   1: "version-1",
         // },
         sidebarCategories: {
           // null: ["getting-started"],
           appeals: filesOf("appeals"),
-          // blog: filesOf("blog"),
-          // docs: filesOf("docs"),
         },
       },
     },
