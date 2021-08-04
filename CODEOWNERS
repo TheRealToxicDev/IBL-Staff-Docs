@@ -13,3 +13,6 @@ package.json @ChillCordDev
 # Base
 content/index.md @TheRealToxicDev
 content/getting-started.mdx @TheRealToxicDev
+
+# Appeals
+content/appeals/@intro.mdx @ChillCordDev
