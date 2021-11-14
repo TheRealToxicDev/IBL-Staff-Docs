@@ -5,7 +5,7 @@
 </h2>
 
 <p>
- Official Documentation site for the Infinity Staff Team
+ Official Documentation site for the Infinity Staff Team!
 </p>
 
 <hr />
