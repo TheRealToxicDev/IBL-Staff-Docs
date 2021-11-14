@@ -1,11 +1,11 @@
 <h2 align='center'>
   <img src="https://cdn.infinitybots.xyz/images/png/Infinity5.png" height='100px' width='100px' />
   <br> 
-  Infinity OSS Docs
+  Infinity Staff Docs
 </h2>
 
 <p>
- Official Documentation site for all of the Infinity Bot List/Infinity Development Open-Source Projects and Software
+ Official Documentation site for the Infinity Staff Team
 </p>
 
 <hr />
