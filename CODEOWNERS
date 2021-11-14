@@ -13,9 +13,5 @@ package.json @ChillCordDev
 # Source
 src/ @ChillCordDev
 
-# Base
-content/index.md @TheRealToxicDev
-content/getting-started.mdx @TheRealToxicDev
-
 # Docs Content
 content/ @TheRealToxicDev
