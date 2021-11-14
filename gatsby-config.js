@@ -25,7 +25,9 @@ module.exports = {
         baseUrl: "https://staff-docs.botlist.site",
         sidebarCategories: {
           // null: ["getting-started"],
-          // appeals: filesOf("appeals"),
+          info: filesOf("information"),
+          new: filesOf("new-staff"),
+          tasks: filesOf("tasks"),
         },
       },
     },
