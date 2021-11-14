@@ -29,7 +29,7 @@ module.exports = {
         // },
         sidebarCategories: {
           // null: ["getting-started"],
-          appeals: filesOf("appeals"),
+          // appeals: filesOf("appeals"),
         },
       },
     },
