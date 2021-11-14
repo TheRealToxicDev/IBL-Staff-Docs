@@ -23,10 +23,6 @@ module.exports = {
         description: "Official Documentation for the Infinity Bot List Staff Team.",
         githubRepo: "InfinityBotList/OSS-Docs",
         baseUrl: "https://staff-docs.botlist.site",
-        defaultVersion: "1",
-        versions: {
-          1: "version-1",
-        },
         sidebarCategories: {
           // null: ["getting-started"],
           // appeals: filesOf("appeals"),
