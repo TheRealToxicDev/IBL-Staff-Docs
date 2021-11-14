@@ -1,9 +1,9 @@
 ---
 title: Home
-description: Welcome to the Infinity OSS Docs 👋
+description: Welcome to the Infinity Staff Docs 👋
 ---
 
-Hey there, Welcome to the Official Documentation for all of the Infinity/Infinity Bots Open-Source Projects.
+Hey there, Welcome to the Official Documentation for the Infinity Staff Team.
 
 ---
 
@@ -14,4 +14,4 @@ Otherwise please use the `Sidebar` to navigate to your section of choice xD
 ---
 
 ## Help and Support
-If you need any help or think you have spotted an issue with any of our Open-Source Software you can talk to in our [`#open-a-ticket`](https://discord.com/channels/758641373074423808/816156732929081366) channel of our [Discord Server](https://infinitybotlist.com/discord)
+If you need any help you can talk to us in our [`#open-a-ticket`](https://discord.com/channels/758641373074423808/816156732929081366) channel of our [Discord Server](https://infinitybotlist.com/discord)
