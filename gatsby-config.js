@@ -21,7 +21,7 @@ module.exports = {
         discordUrl: "https://infinitybotlist.com/discord",
         twitterHandle: "InfinityBotList",
         description: "Official Documentation for the Infinity Bot List Staff Team.",
-        githubRepo: "InfinityBotList/OSS-Docs",
+        githubRepo: "TheRealToxicDev/IBL-Staff-Docs",
         baseUrl: "https://staff-docs.botlist.site",
         sidebarCategories: {
           // null: ["getting-started"],
